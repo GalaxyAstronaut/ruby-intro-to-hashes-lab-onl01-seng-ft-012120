@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  
+  new_actor = {:name => "Erik Mercado"}
 end
 
 def monopoly
