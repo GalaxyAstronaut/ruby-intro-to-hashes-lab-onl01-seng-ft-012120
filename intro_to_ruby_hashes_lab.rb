@@ -4,6 +4,7 @@ end
 
 def actor
   new_actor = {:name => "Erik Mercado"}
+  new_actor
 end
 
 def monopoly
