@@ -4,7 +4,7 @@ end
 
 def actor
   new_actor = {:name => "Erik Mercado"}
-  new_actor
+  new_actor[:name]
 end
 
 def monopoly
